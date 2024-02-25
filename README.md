@@ -1,6 +1,6 @@
 # macoshax
 so youve got your brand new macbook pld from sst. what now? well i havent got much tutorials yet but this is my first one.
-# admin
+# admin. (as of now this does not work unless Ur not signed in to apple id)
 so u want admin but the school and parents dont allow you. well screw them. this is how u get admin access:
 step 1: power off your macbook
 step 2: press and hold your power button. a text appears (loading startup options)
