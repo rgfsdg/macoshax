@@ -20,7 +20,7 @@ step 15: shutdown your laptop and turn on
 step 16: make sure the admin account is gone and login to your student account.
 step 17: 😆
 
-# for sonoma and above 
+# for sonoma and above (this wont work if ur recovery is locked)
 step 1: power off your macbook
 step 2: press and hold your power button. a text appears (loading startup options)
 step 3: press and hold your power button until the options come up.
